@@ -2,7 +2,9 @@
 프로그래밍 문제의 타입별로 솔루션을 모아두었습니다. 
 
 <img src="pyramid.png" width=400px>
+
 ---
+
 ## 목차
 1. BFS
 2. DFS
