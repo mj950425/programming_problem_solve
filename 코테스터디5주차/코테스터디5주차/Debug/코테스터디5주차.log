@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\sw3le\source\repos\코테스터디5주차\코테스터디5주차\소스.cpp(306,22): warning C4305:  '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\sw3le\source\repos\코테스터디5주차\코테스터디5주차\소스.cpp(306,10): warning C4309:  '초기화 중': 상수 값이 잘립니다.
+C:\Users\sw3le\source\repos\코테스터디5주차\코테스터디5주차\소스.cpp(382,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  코테스터디5주차.vcxproj -> C:\Users\sw3le\source\repos\코테스터디5주차\Debug\코테스터디5주차.exe
